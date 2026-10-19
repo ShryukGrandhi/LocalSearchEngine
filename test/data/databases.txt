@@ -1,0 +1,5 @@
+Database Systems
+
+A relational database stores data in tables made of rows and columns.
+Indexes speed up lookups at the cost of extra writes.
+Transactions are atomic, consistent, isolated and durable.

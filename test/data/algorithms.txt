@@ -1,0 +1,6 @@
+Introduction to Algorithms
+
+A computer algorithm is a finite sequence of well-defined instructions.
+The computer algorithm for sorting is studied first.
+Randomized Computer Algorithms use random numbers to make decisions.
+Computing algorithms is not the same phrase, and neither is computer randomized algorithms.
